@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "id": "default-001",
+      "name": "中文回复",
+      "content": "请使用中文回复我的问题"
+    }
+  ]
+}
